@@ -123,7 +123,7 @@ client/
 ---
 
 ## Contact
-**Your Name**  
+**Ayush Rai**  
 Email: ayushrai803@gmail.com  
 Phone: +91 8318542040
 
